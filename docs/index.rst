@@ -1,25 +1,6 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Delve Intelligence
+========
 
-Welcome to Read the Docs Template's documentation!
-==================================================
+Delve is a `marketing & analytics consultancy <https://delveintelligence.com>`_. We help you understand your conversion funnel and make data-driven decisions to acquire and retain more customers.
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+This is a merely a placeholder for future documentation.
